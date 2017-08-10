@@ -1,0 +1,30 @@
+{
+  "customer": {
+    "id":123,
+    "email": "priyapawar121@gmail.com",
+    "phone": "8109485931",
+    "status": "approved",
+    "shippingAddress": {
+      "firstName": "Priya",
+      "lastName": "Pawar",
+      "address": "some address",
+      "city": "Rajnandgaon",
+      "postal": 491441,
+      "region": "Chhattisgarh",
+      "country": "India"
+    },
+    "billingAddress": {
+      "firstName": "Priya",
+      "lastName": "Pawar",
+      "taxid": "456",
+      "address": "some address",
+      "city": "Rajnandgaon",
+      "postal": 491441,
+      "region": "Chhattisgarh",
+      "country": "India"
+    }
+
+  }
+}
+
+
